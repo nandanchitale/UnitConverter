@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Models/Models.csproj" />
+  <Project Path="Services/Services.csproj" />
+  <Project Path="UnitConversionApi.Tests/UnitConversionApi.Tests.csproj" />
+  <Project Path="UnitConverter/UnitConverter.csproj" />
+</Solution>
